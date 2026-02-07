@@ -62,3 +62,16 @@ A full-stack starter for creating encrypted time capsules with scheduled release
 - Multi-factor authentication
 - Download endpoints for encrypted attachments
 
+## ScreenShoot
+
+<img width="1556" height="863" alt="image" src="https://github.com/user-attachments/assets/bfaf38bf-e871-41d0-8bfc-64c4337caac7" />
+
+<img width="1893" height="870" alt="image" src="https://github.com/user-attachments/assets/d18e5e2b-faa1-4925-9f4b-634b5ccdb4c1" />
+
+<img width="1892" height="871" alt="image" src="https://github.com/user-attachments/assets/302d5c51-0d46-4fa5-b209-5619a8386212" />
+
+
+
+
+
+
